@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Deskentra.Api/Deskentra.Api.csproj" />
+  <Project Path="Deskentra.Application/Deskentra.Application.csproj" />
+  <Project Path="Deskentra.Domain/Deskentra.Domain.csproj" />
+  <Project Path="Deskentra.Infrastructure/Deskentra.Infrastructure.csproj" />
+</Solution>
